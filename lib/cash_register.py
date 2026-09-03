@@ -7,6 +7,7 @@ class CashRegister:
 
     @property
     def discount(self):
+        
         return self._discount
 
     @discount.setter
